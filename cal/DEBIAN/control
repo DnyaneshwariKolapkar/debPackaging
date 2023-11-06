@@ -1,0 +1,10 @@
+Package: calculator
+Version: 1.0
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: helloworld.org
+Description: Display String.
+
